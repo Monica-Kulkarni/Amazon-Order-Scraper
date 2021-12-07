@@ -1,4 +1,4 @@
-# Amazon-Orders
+# Amazon-Order-Scraper
 History of my Amazon orders:
 
 ![image](https://user-images.githubusercontent.com/25619497/144949295-8ddf90cc-d0c1-43ab-95c0-38aad52a19b2.png)
